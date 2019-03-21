@@ -1,0 +1,2017 @@
+[
+  {
+    "MapName": "0DST Fatkid SU",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/0DSTFatkidSU.zip?raw=true"
+  },
+  {
+    "MapName": "0p's Duck Hunt",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/0p'sDuckHunt.zip?raw=true"
+  },
+  {
+    "MapName": "0wnageTower",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/0wnageTower.zip?raw=true"
+  },
+  {
+    "MapName": "2 Ships",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/2Ships.zip?raw=true"
+  },
+  {
+    "MapName": "3 Levels",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/3Levels.zip?raw=true"
+  },
+  {
+    "MapName": "4 Levels",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/4Levels.zip?raw=true"
+  },
+  {
+    "MapName": "4-Ways",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/4-Ways.zip?raw=true"
+  },
+  {
+    "MapName": "74th Arena",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/74thArena.zip?raw=true"
+  },
+  {
+    "MapName": "Acid Pit",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/AcidPit.zip?raw=true"
+  },
+  {
+    "MapName": "Adolf Beachouse",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/AdolfBeachouse.zip?raw=true"
+  },
+  {
+    "MapName": "Aerial Standoff",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/AerialStandoff.zip?raw=true"
+  },
+  {
+    "MapName": "Aftermath Maze",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/AftermathMaze.zip?raw=true"
+  },
+  {
+    "MapName": "AI Canyon",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/AICanyon.zip?raw=true"
+  },
+  {
+    "MapName": "Air Ball",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/AirBall.zip?raw=true"
+  },
+  {
+    "MapName": "Aisle",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Aisle.zip?raw=true"
+  },
+  {
+    "MapName": "Angry Birds v1",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/AngryBirdsv1.zip?raw=true"
+  },
+  {
+    "MapName": "AquaTank",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/AquaTank.zip?raw=true"
+  },
+  {
+    "MapName": "ARENA SWORD",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ARENASWORD.zip?raw=true"
+  },
+  {
+    "MapName": "ArmBaseDefense",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ArmBaseDefense.zip?raw=true"
+  },
+  {
+    "MapName": "Ascend",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Ascend.zip?raw=true"
+  },
+  {
+    "MapName": "BANSHEE_SLAYERS",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/BANSHEE_SLAYERS.zip?raw=true"
+  },
+  {
+    "MapName": "Bathtub",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Bathtub.zip?raw=true"
+  },
+  {
+    "MapName": "Beachfront",
+    "BaseMap": "LastResort",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Beachfront.zip?raw=true"
+  },
+  {
+    "MapName": "Big Smoke Order",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/BigSmokeOrder.zip?raw=true"
+  },
+  {
+    "MapName": "BLANK-MLG",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/BLANK-MLG.zip?raw=true"
+  },
+  {
+    "MapName": "Blnk Extra Lvl",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/BlnkExtraLvl.zip?raw=true"
+  },
+  {
+    "MapName": "Blocked In",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/BlockedIn.zip?raw=true"
+  },
+  {
+    "MapName": "Blood Gulch Sta",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/BloodGulchSta.zip?raw=true"
+  },
+  {
+    "MapName": "BlowUpTheBridge",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/BlowUpTheBridge.zip?raw=true"
+  },
+  {
+    "MapName": "bm3",
+    "BaseMap": "Sandtrap",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/bm3.zip?raw=true"
+  },
+  {
+    "MapName": "Bomberman",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Bomberman.zip?raw=true"
+  },
+  {
+    "MapName": "BoomBall v1",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/BoomBallv1.zip?raw=true"
+  },
+  {
+    "MapName": "Border Cross",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/BorderCross.zip?raw=true"
+  },
+  {
+    "MapName": "Border Cross DC",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/BorderCrossDC.zip?raw=true"
+  },
+  {
+    "MapName": "BounceBox_",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/BounceBox_.zip?raw=true"
+  },
+  {
+    "MapName": "BrainFreeze",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/BrainFreeze.zip?raw=true"
+  },
+  {
+    "MapName": "Brains & Trains",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Brains&Trains.zip?raw=true"
+  },
+  {
+    "MapName": "Bridge",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Bridge.zip?raw=true"
+  },
+  {
+    "MapName": "BullDome",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/BullDome.zip?raw=true"
+  },
+  {
+    "MapName": "Bunker",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Bunker.zip?raw=true"
+  },
+  {
+    "MapName": "CaptureValhalla",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/CaptureValhalla.zip?raw=true"
+  },
+  {
+    "MapName": "Castle Destruct",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/CastleDestruct.zip?raw=true"
+  },
+  {
+    "MapName": "Cavern",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Cavern.zip?raw=true"
+  },
+  {
+    "MapName": "Ceiling Drop",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/CeilingDrop.zip?raw=true"
+  },
+  {
+    "MapName": "CenterHole",
+    "BaseMap": "Edge",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/CenterHole.zip?raw=true"
+  },
+  {
+    "MapName": "Charnel Pit",
+    "BaseMap": "ThePit",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/CharnelPit.zip?raw=true"
+  },
+  {
+    "MapName": "check",
+    "BaseMap": "ThePit",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/check.zip?raw=true"
+  },
+  {
+    "MapName": "Checkpoint DC",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/CheckpointDC.zip?raw=true"
+  },
+  {
+    "MapName": "C-HIGH_GROUND",
+    "BaseMap": "HighGround",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/C-HIGH_GROUND.zip?raw=true"
+  },
+  {
+    "MapName": "Chiron-1234",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Chiron-1234.zip?raw=true"
+  },
+  {
+    "MapName": "ChoppedBox",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ChoppedBox.zip?raw=true"
+  },
+  {
+    "MapName": "CL4AUSTROPHOBIA",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/CL4AUSTROPHOBIA.zip?raw=true"
+  },
+  {
+    "MapName": "Clogged",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Clogged.zip?raw=true"
+  },
+  {
+    "MapName": "CLOSE THE DOOR",
+    "BaseMap": "HighGround",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/CLOSETHEDOOR.zip?raw=true"
+  },
+  {
+    "MapName": "Club Dead",
+    "BaseMap": "HighGround",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ClubDead.zip?raw=true"
+  },
+  {
+    "MapName": "C-NARROWS",
+    "BaseMap": "Narrows",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/C-NARROWS.zip?raw=true"
+  },
+  {
+    "MapName": "Compactor",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Compactor.zip?raw=true"
+  },
+  {
+    "MapName": "Concrete Crate",
+    "BaseMap": "ThePit",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ConcreteCrate.zip?raw=true"
+  },
+  {
+    "MapName": "crashorNOT",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/crashorNOT.zip?raw=true"
+  },
+  {
+    "MapName": "C-SANDTRAP",
+    "BaseMap": "Sandtrap",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/C-SANDTRAP.zip?raw=true"
+  },
+  {
+    "MapName": "C-STANDOFF",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/C-STANDOFF.zip?raw=true"
+  },
+  {
+    "MapName": "CTF 0nslaught",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/CTF0nslaught.zip?raw=true"
+  },
+  {
+    "MapName": "CTF Warm-Up",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/CTFWarm-Up.zip?raw=true"
+  },
+  {
+    "MapName": "C-THE_PIT",
+    "BaseMap": "ThePit",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/C-THE_PIT.zip?raw=true"
+  },
+  {
+    "MapName": "C-VALHALLA",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/C-VALHALLA.zip?raw=true"
+  },
+  {
+    "MapName": "DAEMON",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/DAEMON.zip?raw=true"
+  },
+  {
+    "MapName": "D-BACK-XTREME",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/D-BACK-XTREME.zip?raw=true"
+  },
+  {
+    "MapName": "DDAY HIGHGROUND",
+    "BaseMap": "HighGround",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/DDAYHIGHGROUND.zip?raw=true"
+  },
+  {
+    "MapName": "DDAY v2",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/DDAYv2.zip?raw=true"
+  },
+  {
+    "MapName": "Dead End",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/DeadEnd.zip?raw=true"
+  },
+  {
+    "MapName": "Death Race",
+    "BaseMap": "Sandtrap",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/DeathRace.zip?raw=true"
+  },
+  {
+    "MapName": "Death Valley",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/DeathValley.zip?raw=true"
+  },
+  {
+    "MapName": "DeathCurve.v4",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/DeathCurve.v4.zip?raw=true"
+  },
+  {
+    "MapName": "Desert Highjump",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/DesertHighjump.zip?raw=true"
+  },
+  {
+    "MapName": "Desert Skies",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/DesertSkies.zip?raw=true"
+  },
+  {
+    "MapName": "Diamondback +",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Diamondback+.zip?raw=true"
+  },
+  {
+    "MapName": "DIAMONDBACK-C",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/DIAMONDBACK-C.zip?raw=true"
+  },
+  {
+    "MapName": "DiamondPit",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/DiamondPit.zip?raw=true"
+  },
+  {
+    "MapName": "DKs Castle",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/DKsCastle.zip?raw=true"
+  },
+  {
+    "MapName": "Donkey Kong",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/DonkeyKong.zip?raw=true"
+  },
+  {
+    "MapName": "Dont go outside",
+    "BaseMap": "ThePit",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Dontgooutside.zip?raw=true"
+  },
+  {
+    "MapName": "Duel",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Duel.zip?raw=true"
+  },
+  {
+    "MapName": "edgetest",
+    "BaseMap": "Edge",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/edgetest.zip?raw=true"
+  },
+  {
+    "MapName": "Electric Brains",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ElectricBrains.zip?raw=true"
+  },
+  {
+    "MapName": "Elevation Drop",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ElevationDrop.zip?raw=true"
+  },
+  {
+    "MapName": "EquallySizedGrifball",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/EquallySizedGrifball.zip?raw=true"
+  },
+  {
+    "MapName": "Exile",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Exile.zip?raw=true"
+  },
+  {
+    "MapName": "Extra Level",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ExtraLevel.zip?raw=true"
+  },
+  {
+    "MapName": "Facing Worlds",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/FacingWorlds.zip?raw=true"
+  },
+  {
+    "MapName": "Fat Fuck",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/FatFuck.zip?raw=true"
+  },
+  {
+    "MapName": "Fatkid 2.0",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Fatkid2.0.zip?raw=true"
+  },
+  {
+    "MapName": "Fatkid 3 (1.2)",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Fatkid3(1.2).zip?raw=true"
+  },
+  {
+    "MapName": "Fatkid Convoy",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/FatkidConvoy.zip?raw=true"
+  },
+  {
+    "MapName": "FATKID FORT",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/FATKIDFORT.zip?raw=true"
+  },
+  {
+    "MapName": "Fatkid Fort 2",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/FatkidFort2.zip?raw=true"
+  },
+  {
+    "MapName": "Fatkid Fort 4",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/FatkidFort4.zip?raw=true"
+  },
+  {
+    "MapName": "Fatkid Fort II",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/FatkidFortII.zip?raw=true"
+  },
+  {
+    "MapName": "Fatkid Hideout",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/FatkidHideout.zip?raw=true"
+  },
+  {
+    "MapName": "FATKID LOCKDOWN",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/FATKIDLOCKDOWN.zip?raw=true"
+  },
+  {
+    "MapName": "FatKid Meltdown",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/FatKidMeltdown.zip?raw=true"
+  },
+  {
+    "MapName": "Fatkid v2.0",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Fatkidv2.0.zip?raw=true"
+  },
+  {
+    "MapName": "Fatkid-471",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Fatkid-471.zip?raw=true"
+  },
+  {
+    "MapName": "Fatkid-Covered",
+    "BaseMap": "ThePit",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Fatkid-Covered.zip?raw=true"
+  },
+  {
+    "MapName": "Fatkid-NN",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Fatkid-NN.zip?raw=true"
+  },
+  {
+    "MapName": "Fatkid-Run",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Fatkid-Run.zip?raw=true"
+  },
+  {
+    "MapName": "FatLabs",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/FatLabs.zip?raw=true"
+  },
+  {
+    "MapName": "Fatty Fat Kid",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/FattyFatKid.zip?raw=true"
+  },
+  {
+    "MapName": "FiestaPit",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/FiestaPit.zip?raw=true"
+  },
+  {
+    "MapName": "Flag Reaction",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/FlagReaction.zip?raw=true"
+  },
+  {
+    "MapName": "Flag-Heist",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Flag-Heist.zip?raw=true"
+  },
+  {
+    "MapName": "FlatBox",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/FlatBox.zip?raw=true"
+  },
+  {
+    "MapName": "FlatFloor",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/FlatFloor.zip?raw=true"
+  },
+  {
+    "MapName": "FlatFloorCTF",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/FlatFloorCTF.zip?raw=true"
+  },
+  {
+    "MapName": "Floodback",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Floodback.zip?raw=true"
+  },
+  {
+    "MapName": "Flying ele",
+    "BaseMap": "Sandtrap",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Flyingele.zip?raw=true"
+  },
+  {
+    "MapName": "FlySwatter",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/FlySwatter.zip?raw=true"
+  },
+  {
+    "MapName": "FlyTrap",
+    "BaseMap": "Sandtrap",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/FlyTrap.zip?raw=true"
+  },
+  {
+    "MapName": "Foggy Guardian",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/FoggyGuardian.zip?raw=true"
+  },
+  {
+    "MapName": "FogWorld",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/FogWorld.zip?raw=true"
+  },
+  {
+    "MapName": "ForeignersArena",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ForeignersArena.zip?raw=true"
+  },
+  {
+    "MapName": "ForeignGrifball",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ForeignGrifball.zip?raw=true"
+  },
+  {
+    "MapName": "Forest Flight",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ForestFlight.zip?raw=true"
+  },
+  {
+    "MapName": "Forestback",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Forestback.zip?raw=true"
+  },
+  {
+    "MapName": "ForestWorld",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ForestWorld.zip?raw=true"
+  },
+  {
+    "MapName": "Forunner Relics",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ForunnerRelics.zip?raw=true"
+  },
+  {
+    "MapName": "Foundry CPLX09",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/FoundryCPLX09.zip?raw=true"
+  },
+  {
+    "MapName": "Fragmentation",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Fragmentation.zip?raw=true"
+  },
+  {
+    "MapName": "Frigate",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Frigate.zip?raw=true"
+  },
+  {
+    "MapName": "Frogger",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Frogger.zip?raw=true"
+  },
+  {
+    "MapName": "GetOutOfMyHouse",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/GetOutOfMyHouse.zip?raw=true"
+  },
+  {
+    "MapName": "Ghost Box",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/GhostBox.zip?raw=true"
+  },
+  {
+    "MapName": "Glade",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Glade.zip?raw=true"
+  },
+  {
+    "MapName": "GooseWars",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/GooseWars.zip?raw=true"
+  },
+  {
+    "MapName": "Green Journey",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/GreenJourney.zip?raw=true"
+  },
+  {
+    "MapName": "Grifball-Blank",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Grifball-Blank.zip?raw=true"
+  },
+  {
+    "MapName": "Guardagram",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Guardagram.zip?raw=true"
+  },
+  {
+    "MapName": "Guardian FFA",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/GuardianFFA.zip?raw=true"
+  },
+  {
+    "MapName": "Guardian Strip",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/GuardianStrip.zip?raw=true"
+  },
+  {
+    "MapName": "GUARDIAN-C",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/GUARDIAN-C.zip?raw=true"
+  },
+  {
+    "MapName": "GuardianH3",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/GuardianH3.zip?raw=true"
+  },
+  {
+    "MapName": "Hanger",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Hanger.zip?raw=true"
+  },
+  {
+    "MapName": "Hells Stairway",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/HellsStairway.zip?raw=true"
+  },
+  {
+    "MapName": "HG Gulch",
+    "BaseMap": "HighGround",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/HGGulch.zip?raw=true"
+  },
+  {
+    "MapName": "HGBaseDefense",
+    "BaseMap": "HighGround",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/HGBaseDefense.zip?raw=true"
+  },
+  {
+    "MapName": "H-GROUND XTREME",
+    "BaseMap": "HighGround",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/H-GROUNDXTREME.zip?raw=true"
+  },
+  {
+    "MapName": "HIDE AND SEEK",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/HIDEANDSEEK.zip?raw=true"
+  },
+  {
+    "MapName": "Hide N' Sneak",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/HideN'Sneak.zip?raw=true"
+  },
+  {
+    "MapName": "highduck",
+    "BaseMap": "HighGround",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/highduck.zip?raw=true"
+  },
+  {
+    "MapName": "Higher Ground",
+    "BaseMap": "HighGround",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/HigherGround.zip?raw=true"
+  },
+  {
+    "MapName": "Hold The Door",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/HoldTheDoor.zip?raw=true"
+  },
+  {
+    "MapName": "Hollow",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Hollow.zip?raw=true"
+  },
+  {
+    "MapName": "HornetTest",
+    "BaseMap": "ThePit",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/HornetTest.zip?raw=true"
+  },
+  {
+    "MapName": "HouseDefense",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/HouseDefense.zip?raw=true"
+  },
+  {
+    "MapName": "HouseOfSpoox.v2",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/HouseOfSpoox.v2.zip?raw=true"
+  },
+  {
+    "MapName": "Houska Manor",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/HouskaManor.zip?raw=true"
+  },
+  {
+    "MapName": "Hunter's Track",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Hunter'sTrack.zip?raw=true"
+  },
+  {
+    "MapName": "HuricaneKatrina",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/HuricaneKatrina.zip?raw=true"
+  },
+  {
+    "MapName": "Hurrican Katrin",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/HurricanKatrin.zip?raw=true"
+  },
+  {
+    "MapName": "Husky-Classic",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Husky-Classic.zip?raw=true"
+  },
+  {
+    "MapName": "Husky-Dip",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Husky-Dip.zip?raw=true"
+  },
+  {
+    "MapName": "Icebox Interior",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/IceboxInterior.zip?raw=true"
+  },
+  {
+    "MapName": "Icebox-C",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Icebox-C.zip?raw=true"
+  },
+  {
+    "MapName": "Icebox-HC",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Icebox-HC.zip?raw=true"
+  },
+  {
+    "MapName": "InfectMansion",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/InfectMansion.zip?raw=true"
+  },
+  {
+    "MapName": "Inferno",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Inferno.zip?raw=true"
+  },
+  {
+    "MapName": "Infested House",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/InfestedHouse.zip?raw=true"
+  },
+  {
+    "MapName": "Inner Shell",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/InnerShell.zip?raw=true"
+  },
+  {
+    "MapName": "Iphicles",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Iphicles.zip?raw=true"
+  },
+  {
+    "MapName": "Islands",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Islands.zip?raw=true"
+  },
+  {
+    "MapName": "Islandz",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Islandz.zip?raw=true"
+  },
+  {
+    "MapName": "Jaws",
+    "BaseMap": "LastResort",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Jaws.zip?raw=true"
+  },
+  {
+    "MapName": "Jaws on Crazyking",
+    "BaseMap": "LastResort",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/JawsonCrazyking.zip?raw=true"
+  },
+  {
+    "MapName": "JawsAttack",
+    "BaseMap": "HighGround",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/JawsAttack.zip?raw=true"
+  },
+  {
+    "MapName": "Jaws-Attack",
+    "BaseMap": "HighGround",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Jaws-Attack.zip?raw=true"
+  },
+  {
+    "MapName": "Jenga MS",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/JengaMS.zip?raw=true"
+  },
+  {
+    "MapName": "Jenga Wall",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/JengaWall.zip?raw=true"
+  },
+  {
+    "MapName": "JengaTowerX",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/JengaTowerX.zip?raw=true"
+  },
+  {
+    "MapName": "Jerry's Desert",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Jerry'sDesert.zip?raw=true"
+  },
+  {
+    "MapName": "Joust Arena",
+    "BaseMap": "Narrows",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/JoustArena.zip?raw=true"
+  },
+  {
+    "MapName": "Jump Challenge",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/JumpChallenge.zip?raw=true"
+  },
+  {
+    "MapName": "JurassicPark",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/JurassicPark.zip?raw=true"
+  },
+  {
+    "MapName": "Kiddie Corner",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/KiddieCorner.zip?raw=true"
+  },
+  {
+    "MapName": "KingOfTheFort",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/KingOfTheFort.zip?raw=true"
+  },
+  {
+    "MapName": "KingOfTheRelics",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/KingOfTheRelics.zip?raw=true"
+  },
+  {
+    "MapName": "KurskTanks",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/KurskTanks.zip?raw=true"
+  },
+  {
+    "MapName": "Lab Runaway",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/LabRunaway.zip?raw=true"
+  },
+  {
+    "MapName": "Last Defense",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/LastDefense.zip?raw=true"
+  },
+  {
+    "MapName": "last defense v1",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/lastdefensev1.zip?raw=true"
+  },
+  {
+    "MapName": "Last Reckoning",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/LastReckoning.zip?raw=true"
+  },
+  {
+    "MapName": "LAST STAND",
+    "BaseMap": "ThePit",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/LASTSTAND.zip?raw=true"
+  },
+  {
+    "MapName": "LASTRESORT-C",
+    "BaseMap": "LastResort",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/LASTRESORT-C.zip?raw=true"
+  },
+  {
+    "MapName": "LastResortH3",
+    "BaseMap": "LastResort",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/LastResortH3.zip?raw=true"
+  },
+  {
+    "MapName": "LaunchPad",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/LaunchPad.zip?raw=true"
+  },
+  {
+    "MapName": "LavaPit DC",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/LavaPitDC.zip?raw=true"
+  },
+  {
+    "MapName": "lightz",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/lightz.zip?raw=true"
+  },
+  {
+    "MapName": "Lizard Kid 2",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/LizardKid2.zip?raw=true"
+  },
+  {
+    "MapName": "Lizard Kid 3",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/LizardKid3.zip?raw=true"
+  },
+  {
+    "MapName": "LongerGrifball",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/LongerGrifball.zip?raw=true"
+  },
+  {
+    "MapName": "LongFrigate",
+    "BaseMap": "Sandtrap",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/LongFrigate.zip?raw=true"
+  },
+  {
+    "MapName": "Mad House V2",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/MadHouseV2.zip?raw=true"
+  },
+  {
+    "MapName": "Minotaur",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Minotaur.zip?raw=true"
+  },
+  {
+    "MapName": "MLG Amplified",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/MLGAmplified.zip?raw=true"
+  },
+  {
+    "MapName": "MLG Guardian",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/MLGGuardian.zip?raw=true"
+  },
+  {
+    "MapName": "MLG Icebox 1.2",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/MLGIcebox1.2.zip?raw=true"
+  },
+  {
+    "MapName": "MLG Narrows",
+    "BaseMap": "Narrows",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/MLGNarrows.zip?raw=true"
+  },
+  {
+    "MapName": "MLG Offslaught",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/MLGOffslaught.zip?raw=true"
+  },
+  {
+    "MapName": "MLG Onslaught",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/MLGOnslaught.zip?raw=true"
+  },
+  {
+    "MapName": "MLG P KotH",
+    "BaseMap": "ThePit",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/MLGPKotH.zip?raw=true"
+  },
+  {
+    "MapName": "MLG Pit",
+    "BaseMap": "ThePit",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/MLGPit.zip?raw=true"
+  },
+  {
+    "MapName": "MLG Vector",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/MLGVector.zip?raw=true"
+  },
+  {
+    "MapName": "Mongoose Hunt",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/MongooseHunt.zip?raw=true"
+  },
+  {
+    "MapName": "Monster Jam",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/MonsterJam.zip?raw=true"
+  },
+  {
+    "MapName": "MONSTER TRUCKS",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/MONSTERTRUCKS.zip?raw=true"
+  },
+  {
+    "MapName": "Mystery Hall",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/MysteryHall.zip?raw=true"
+  },
+  {
+    "MapName": "NarrowScope",
+    "BaseMap": "Narrows",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/NarrowScope.zip?raw=true"
+  },
+  {
+    "MapName": "NARROWS-HC",
+    "BaseMap": "Narrows",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/NARROWS-HC.zip?raw=true"
+  },
+  {
+    "MapName": "Ninja_Small",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Ninja_Small.zip?raw=true"
+  },
+  {
+    "MapName": "No Elephants",
+    "BaseMap": "Sandtrap",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/NoElephants.zip?raw=true"
+  },
+  {
+    "MapName": "Nuclear Zombie",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/NuclearZombie.zip?raw=true"
+  },
+  {
+    "MapName": "OBESE B0X II",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/OBESEB0XII.zip?raw=true"
+  },
+  {
+    "MapName": "OBESE BOX",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/OBESEBOX.zip?raw=true"
+  },
+  {
+    "MapName": "OBESE MAZE",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/OBESEMAZE.zip?raw=true"
+  },
+  {
+    "MapName": "OBESE MAZE II",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/OBESEMAZEII.zip?raw=true"
+  },
+  {
+    "MapName": "Obese Trap",
+    "BaseMap": "Sandtrap",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ObeseTrap.zip?raw=true"
+  },
+  {
+    "MapName": "OBJ Amplified",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/OBJAmplified.zip?raw=true"
+  },
+  {
+    "MapName": "OBJ Vector",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/OBJVector.zip?raw=true"
+  },
+  {
+    "MapName": "ODST Fatkid SU",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ODSTFatkidSU.zip?raw=true"
+  },
+  {
+    "MapName": "Offslaught",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Offslaught.zip?raw=true"
+  },
+  {
+    "MapName": "OG Duck Hunt",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/OGDuckHunt.zip?raw=true"
+  },
+  {
+    "MapName": "OMEGA JOURNEY",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/OMEGAJOURNEY.zip?raw=true"
+  },
+  {
+    "MapName": "Omega-Journey",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Omega-Journey.zip?raw=true"
+  },
+  {
+    "MapName": "Ongrass2.0",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Ongrass2.0.zip?raw=true"
+  },
+  {
+    "MapName": "Op's Duck Hunt",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Op'sDuckHunt.zip?raw=true"
+  },
+  {
+    "MapName": "Op's Garbage Can",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Op'sGarbageCan.zip?raw=true"
+  },
+  {
+    "MapName": "Outbreak",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Outbreak.zip?raw=true"
+  },
+  {
+    "MapName": "OutOfMyHouse2",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/OutOfMyHouse2.zip?raw=true"
+  },
+  {
+    "MapName": "Outpost",
+    "BaseMap": "HighGround",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Outpost.zip?raw=true"
+  },
+  {
+    "MapName": "Overgrowth 2.0",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Overgrowth2.0.zip?raw=true"
+  },
+  {
+    "MapName": "OwnageBunker",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/OwnageBunker.zip?raw=true"
+  },
+  {
+    "MapName": "Pac-Maze",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Pac-Maze.zip?raw=true"
+  },
+  {
+    "MapName": "Paintball Arena",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/PaintballArena.zip?raw=true"
+  },
+  {
+    "MapName": "paintball v1.0",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/paintballv1.0.zip?raw=true"
+  },
+  {
+    "MapName": "ParkourRun SR",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ParkourRunSR.zip?raw=true"
+  },
+  {
+    "MapName": "PeliCanReact",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/PeliCanReact.zip?raw=true"
+  },
+  {
+    "MapName": "Pillar0fAutumn",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Pillar0fAutumn.zip?raw=true"
+  },
+  {
+    "MapName": "PillarOfAutumn",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/PillarOfAutumn.zip?raw=true"
+  },
+  {
+    "MapName": "Pirate Battle",
+    "BaseMap": "Sandtrap",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/PirateBattle.zip?raw=true"
+  },
+  {
+    "MapName": "Pit KotH",
+    "BaseMap": "ThePit",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/PitKotH.zip?raw=true"
+  },
+  {
+    "MapName": "Pit0ut",
+    "BaseMap": "ThePit",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Pit0ut.zip?raw=true"
+  },
+  {
+    "MapName": "PitBall",
+    "BaseMap": "ThePit",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/PitBall.zip?raw=true"
+  },
+  {
+    "MapName": "PitHideandSeek",
+    "BaseMap": "ThePit",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/PitHideandSeek.zip?raw=true"
+  },
+  {
+    "MapName": "Plants vs Zombies Map",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/PlantsvsZombiesMap.zip?raw=true"
+  },
+  {
+    "MapName": "pond jumpers",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/pondjumpers.zip?raw=true"
+  },
+  {
+    "MapName": "pond jumperss",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/pondjumperss.zip?raw=true"
+  },
+  {
+    "MapName": "Predators",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Predators.zip?raw=true"
+  },
+  {
+    "MapName": "Purple Field",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/PurpleField.zip?raw=true"
+  },
+  {
+    "MapName": "Queer River",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/QueerRiver.zip?raw=true"
+  },
+  {
+    "MapName": "Radioactive",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Radioactive.zip?raw=true"
+  },
+  {
+    "MapName": "RainbowRoad",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/RainbowRoad.zip?raw=true"
+  },
+  {
+    "MapName": "RCO Convergence",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/RCOConvergence.zip?raw=true"
+  },
+  {
+    "MapName": "RCO Disorder",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/RCODisorder.zip?raw=true"
+  },
+  {
+    "MapName": "RCO Sufficiency",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/RCOSufficiency.zip?raw=true"
+  },
+  {
+    "MapName": "RCO Sufficient",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/RCOSufficient.zip?raw=true"
+  },
+  {
+    "MapName": "ReactFrigate",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ReactFrigate.zip?raw=true"
+  },
+  {
+    "MapName": "ReactGulch",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ReactGulch.zip?raw=true"
+  },
+  {
+    "MapName": "ReactionHill",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ReactionHill.zip?raw=true"
+  },
+  {
+    "MapName": "REACTOR-XTREME",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/REACTOR-XTREME.zip?raw=true"
+  },
+  {
+    "MapName": "Repository",
+    "BaseMap": "ThePit",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Repository.zip?raw=true"
+  },
+  {
+    "MapName": "Ridgeline racin",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Ridgelineracin.zip?raw=true"
+  },
+  {
+    "MapName": "Rifle Arena",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/RifleArena.zip?raw=true"
+  },
+  {
+    "MapName": "RiverCourt",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/RiverCourt.zip?raw=true"
+  },
+  {
+    "MapName": "River-Path",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/River-Path.zip?raw=true"
+  },
+  {
+    "MapName": "River-Raceway",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/River-Raceway.zip?raw=true"
+  },
+  {
+    "MapName": "Ro Sham Bump v2",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/RoShamBumpv2.zip?raw=true"
+  },
+  {
+    "MapName": "Rocky Roadway",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/RockyRoadway.zip?raw=true"
+  },
+  {
+    "MapName": "Run Run Lizard",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/RunRunLizard.zip?raw=true"
+  },
+  {
+    "MapName": "Run0rDie",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Run0rDie.zip?raw=true"
+  },
+  {
+    "MapName": "Runaway Hills",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/RunawayHills.zip?raw=true"
+  },
+  {
+    "MapName": "RvrwrldInterior",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/RvrwrldInterior.zip?raw=true"
+  },
+  {
+    "MapName": "SandDrop",
+    "BaseMap": "Sandtrap",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SandDrop.zip?raw=true"
+  },
+  {
+    "MapName": "SANDTRAP XTREME",
+    "BaseMap": "Sandtrap",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SANDTRAPXTREME.zip?raw=true"
+  },
+  {
+    "MapName": "SANDTRAP-C",
+    "BaseMap": "Sandtrap",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SANDTRAP-C.zip?raw=true"
+  },
+  {
+    "MapName": "SandWax",
+    "BaseMap": "Sandtrap",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SandWax.zip?raw=true"
+  },
+  {
+    "MapName": "SAW VI",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SAWVI.zip?raw=true"
+  },
+  {
+    "MapName": "Scarif.v.4",
+    "BaseMap": "LastResort",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Scarif.v.4.zip?raw=true"
+  },
+  {
+    "MapName": "ScarifXL",
+    "BaseMap": "LastResort",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ScarifXL.zip?raw=true"
+  },
+  {
+    "MapName": "S-Cubed 0.3",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/S-Cubed0.3.zip?raw=true"
+  },
+  {
+    "MapName": "SeaDrive",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SeaDrive.zip?raw=true"
+  },
+  {
+    "MapName": "Serious Silver",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SeriousSilver.zip?raw=true"
+  },
+  {
+    "MapName": "Sevealin Avenue",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SevealinAvenue.zip?raw=true"
+  },
+  {
+    "MapName": "Shark Tank",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SharkTank.zip?raw=true"
+  },
+  {
+    "MapName": "Sheila's Fort",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Sheila'sFort.zip?raw=true"
+  },
+  {
+    "MapName": "Shipment",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Shipment.zip?raw=true"
+  },
+  {
+    "MapName": "ShorterGrifball",
+    "BaseMap": "LastResort",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ShorterGrifball.zip?raw=true"
+  },
+  {
+    "MapName": "SKYCASTLE",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SKYCASTLE.zip?raw=true"
+  },
+  {
+    "MapName": "Skyfort 2.0",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Skyfort2.0.zip?raw=true"
+  },
+  {
+    "MapName": "SkyFort DC",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SkyFortDC.zip?raw=true"
+  },
+  {
+    "MapName": "SkyKingdom",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SkyKingdom.zip?raw=true"
+  },
+  {
+    "MapName": "SkyLocomotive",
+    "BaseMap": "LastResort",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SkyLocomotive.zip?raw=true"
+  },
+  {
+    "MapName": "Skymap",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Skymap.zip?raw=true"
+  },
+  {
+    "MapName": "Skymap2.0",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Skymap2.0.zip?raw=true"
+  },
+  {
+    "MapName": "SkyTower",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SkyTower.zip?raw=true"
+  },
+  {
+    "MapName": "SkyTrain SR",
+    "BaseMap": "LastResort",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SkyTrainSR.zip?raw=true"
+  },
+  {
+    "MapName": "SkyTrap",
+    "BaseMap": "Sandtrap",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SkyTrap.zip?raw=true"
+  },
+  {
+    "MapName": "Smear The Queer",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SmearTheQueer.zip?raw=true"
+  },
+  {
+    "MapName": "SmearBack",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SmearBack.zip?raw=true"
+  },
+  {
+    "MapName": "SnowBox",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SnowBox.zip?raw=true"
+  },
+  {
+    "MapName": "soaring hill",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/soaringhill.zip?raw=true"
+  },
+  {
+    "MapName": "Softwood_Floors",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Softwood_Floors.zip?raw=true"
+  },
+  {
+    "MapName": "Space Battle",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SpaceBattle.zip?raw=true"
+  },
+  {
+    "MapName": "Space Drop",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SpaceDrop.zip?raw=true"
+  },
+  {
+    "MapName": "SpaceCourt",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SpaceCourt.zip?raw=true"
+  },
+  {
+    "MapName": "SpaceDerby",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SpaceDerby.zip?raw=true"
+  },
+  {
+    "MapName": "Speed Dome",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SpeedDome.zip?raw=true"
+  },
+  {
+    "MapName": "SpeedHalla",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SpeedHalla.zip?raw=true"
+  },
+  {
+    "MapName": "splatforms",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/splatforms.zip?raw=true"
+  },
+  {
+    "MapName": "Splatformz",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Splatformz.zip?raw=true"
+  },
+  {
+    "MapName": "SplatterMonkey",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SplatterMonkey.zip?raw=true"
+  },
+  {
+    "MapName": "Spooky Forest",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SpookyForest.zip?raw=true"
+  },
+  {
+    "MapName": "Spooky House",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SpookyHouse.zip?raw=true"
+  },
+  {
+    "MapName": "Spooky Tower",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SpookyTower.zip?raw=true"
+  },
+  {
+    "MapName": "Staged Escape",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/StagedEscape.zip?raw=true"
+  },
+  {
+    "MapName": "Stairway To Heaven",
+    "BaseMap": "Sandtrap",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/StairwayToHeaven.zip?raw=true"
+  },
+  {
+    "MapName": "Standoff plasam",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Standoffplasam.zip?raw=true"
+  },
+  {
+    "MapName": "STANDOFF-C",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/STANDOFF-C.zip?raw=true"
+  },
+  {
+    "MapName": "Station 69",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Station69.zip?raw=true"
+  },
+  {
+    "MapName": "SwimOff",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/SwimOff.zip?raw=true"
+  },
+  {
+    "MapName": "sword badlands",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/swordbadlands.zip?raw=true"
+  },
+  {
+    "MapName": "Tactical Obj",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/TacticalObj.zip?raw=true"
+  },
+  {
+    "MapName": "Tank wars",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Tankwars.zip?raw=true"
+  },
+  {
+    "MapName": "Tank Wars SR",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/TankWarsSR.zip?raw=true"
+  },
+  {
+    "MapName": "Tankk",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Tankk.zip?raw=true"
+  },
+  {
+    "MapName": "TankWars",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/TankWars.zip?raw=true"
+  },
+  {
+    "MapName": "TeleportMaze",
+    "BaseMap": "ThePit",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/TeleportMaze.zip?raw=true"
+  },
+  {
+    "MapName": "TELLIE WARS",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/TELLIEWARS.zip?raw=true"
+  },
+  {
+    "MapName": "Termites",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Termites.zip?raw=true"
+  },
+  {
+    "MapName": "THE CAGE 6.0",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/THECAGE6.0.zip?raw=true"
+  },
+  {
+    "MapName": "the Caribbean",
+    "BaseMap": "Sandtrap",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/theCaribbean.zip?raw=true"
+  },
+  {
+    "MapName": "The Cold Forest",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/TheColdForest.zip?raw=true"
+  },
+  {
+    "MapName": "The Crust",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/TheCrust.zip?raw=true"
+  },
+  {
+    "MapName": "The Seven Seas",
+    "BaseMap": "Sandtrap",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/TheSevenSeas.zip?raw=true"
+  },
+  {
+    "MapName": "the swings",
+    "BaseMap": "LastResort",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/theswings.zip?raw=true"
+  },
+  {
+    "MapName": "TheGreatInfect",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/TheGreatInfect.zip?raw=true"
+  },
+  {
+    "MapName": "Toilet Clog",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ToiletClog.zip?raw=true"
+  },
+  {
+    "MapName": "Toilet Clogg_",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ToiletClogg_.zip?raw=true"
+  },
+  {
+    "MapName": "Tower Fall",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/TowerFall.zip?raw=true"
+  },
+  {
+    "MapName": "Toy Factory",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ToyFactory.zip?raw=true"
+  },
+  {
+    "MapName": "Transloc Fort 2",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/TranslocFort2.zip?raw=true"
+  },
+  {
+    "MapName": "TRASH COMPACTOR",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/TRASHCOMPACTOR.zip?raw=true"
+  },
+  {
+    "MapName": "Tree Fort",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/TreeFort.zip?raw=true"
+  },
+  {
+    "MapName": "Tree Rot",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/TreeRot.zip?raw=true"
+  },
+  {
+    "MapName": "Treehouse",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Treehouse.zip?raw=true"
+  },
+  {
+    "MapName": "Tug of War",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/TugofWar.zip?raw=true"
+  },
+  {
+    "MapName": "Tunnel",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Tunnel.zip?raw=true"
+  },
+  {
+    "MapName": "Tunnel Raid",
+    "BaseMap": "LastResort",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/TunnelRaid.zip?raw=true"
+  },
+  {
+    "MapName": "Tunnel Run",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/TunnelRun.zip?raw=true"
+  },
+  {
+    "MapName": "TunnelOfBridges",
+    "BaseMap": "LastResort",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/TunnelOfBridges.zip?raw=true"
+  },
+  {
+    "MapName": "Turnover",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Turnover.zip?raw=true"
+  },
+  {
+    "MapName": "Uncaged",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Uncaged.zip?raw=true"
+  },
+  {
+    "MapName": "UNCAGED 1.9",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/UNCAGED1.9.zip?raw=true"
+  },
+  {
+    "MapName": "UNDEAD PATHWAYZ",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/UNDEADPATHWAYZ.zip?raw=true"
+  },
+  {
+    "MapName": "V3NTILATION",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/V3NTILATION.zip?raw=true"
+  },
+  {
+    "MapName": "Vacant V3",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/VacantV3.zip?raw=true"
+  },
+  {
+    "MapName": "Valhalla Obj",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ValhallaObj.zip?raw=true"
+  },
+  {
+    "MapName": "Valhalla Siege",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ValhallaSiege.zip?raw=true"
+  },
+  {
+    "MapName": "Valhalla VF",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ValhallaVF.zip?raw=true"
+  },
+  {
+    "MapName": "VALHALLA XTREME",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/VALHALLAXTREME.zip?raw=true"
+  },
+  {
+    "MapName": "VALHALLA-C",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/VALHALLA-C.zip?raw=true"
+  },
+  {
+    "MapName": "ValhallaDefense",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ValhallaDefense.zip?raw=true"
+  },
+  {
+    "MapName": "VALHALLA-REBORN",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/VALHALLA-REBORN.zip?raw=true"
+  },
+  {
+    "MapName": "ValHilla",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ValHilla.zip?raw=true"
+  },
+  {
+    "MapName": "Vehicular Chaos",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/VehicularChaos.zip?raw=true"
+  },
+  {
+    "MapName": "Ventilation",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Ventilation.zip?raw=true"
+  },
+  {
+    "MapName": "very erotic",
+    "BaseMap": "LastResort",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/veryerotic.zip?raw=true"
+  },
+  {
+    "MapName": "Vessel H3",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/VesselH3.zip?raw=true"
+  },
+  {
+    "MapName": "Virus-R1",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Virus-R1.zip?raw=true"
+  },
+  {
+    "MapName": "Wall Maria",
+    "BaseMap": "Narrows",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/WallMaria.zip?raw=true"
+  },
+  {
+    "MapName": "Warhalla",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Warhalla.zip?raw=true"
+  },
+  {
+    "MapName": "Warlock Doubles",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/WarlockDoubles.zip?raw=true"
+  },
+  {
+    "MapName": "Warlocked",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Warlocked.zip?raw=true"
+  },
+  {
+    "MapName": "Warlocked2",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Warlocked2.zip?raw=true"
+  },
+  {
+    "MapName": "Warp Conduit",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/WarpConduit.zip?raw=true"
+  },
+  {
+    "MapName": "WarpLock",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/WarpLock.zip?raw=true"
+  },
+  {
+    "MapName": "warthog bowling",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/warthogbowling.zip?raw=true"
+  },
+  {
+    "MapName": "Warthog Derby",
+    "BaseMap": "Reactor",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/WarthogDerby.zip?raw=true"
+  },
+  {
+    "MapName": "Warthoghalla",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Warthoghalla.zip?raw=true"
+  },
+  {
+    "MapName": "WaterCourt",
+    "BaseMap": "LastResort",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/WaterCourt.zip?raw=true"
+  },
+  {
+    "MapName": "Weapon Range",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/WeaponRange.zip?raw=true"
+  },
+  {
+    "MapName": "WetKid SR",
+    "BaseMap": "Icebox",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/WetKidSR.zip?raw=true"
+  },
+  {
+    "MapName": "wewrdian",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/wewrdian.zip?raw=true"
+  },
+  {
+    "MapName": "Witchcraft",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Witchcraft.zip?raw=true"
+  },
+  {
+    "MapName": "World War Z",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/WorldWarZ.zip?raw=true"
+  },
+  {
+    "MapName": "WWE Smackdown",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/WWESmackdown.zip?raw=true"
+  },
+  {
+    "MapName": "XcapeGuardian",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/XcapeGuardian.zip?raw=true"
+  },
+  {
+    "MapName": "XT Avalanche",
+    "BaseMap": "Diamondback",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/XTAvalanche.zip?raw=true"
+  },
+  {
+    "MapName": "XT Guardian",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/XTGuardian.zip?raw=true"
+  },
+  {
+    "MapName": "XT Standoff",
+    "BaseMap": "Standoff",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/XTStandoff.zip?raw=true"
+  },
+  {
+    "MapName": "XT_Valhalla",
+    "BaseMap": "Valhalla",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/XT_Valhalla.zip?raw=true"
+  },
+  {
+    "MapName": "ZANZIBAR-HC",
+    "BaseMap": "LastResort",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ZANZIBAR-HC.zip?raw=true"
+  },
+  {
+    "MapName": "ZANZIBAR-XTREME",
+    "BaseMap": "LastResort",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ZANZIBAR-XTREME.zip?raw=true"
+  },
+  {
+    "MapName": "Zanzibrain",
+    "BaseMap": "LastResort",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Zanzibrain.zip?raw=true"
+  },
+  {
+    "MapName": "Zombie Roadrage",
+    "BaseMap": "Sandtrap",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/ZombieRoadrage.zip?raw=true"
+  },
+  {
+    "MapName": "Zombie's Street",
+    "BaseMap": "Guardian",
+    "Download Link": "https://github.com/cvaughn55/HaloVaultBackup/blob/master/maps/Zombie'sStreet.zip?raw=true"
+  }
+]
