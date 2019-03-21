@@ -1,0 +1,120 @@
+@import url("https://fonts.googleapis.com/css?family=Open+Sans|Ubuntu|Varela+Round");
+body {
+  margin: 0;
+  padding: 0;
+background-color: #393a3e;
+  height: 100%;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  text-decoration: none;
+}
+
+header {
+	background-image: url("../img/IkwgfzU.png");
+	  background-repeat: no-repeat;
+	background-size: contain;
+	background-position: center;
+	height: 150px;
+  background-color: #33343C;
+  padding: 30px;
+  text-align: center;
+}
+
+h1 {
+  font-family: 'Varela Round', sans-serif;
+  color: white;
+  text-align: center;
+  margin: 0 0 4rem;
+  font-size: 2.1rem;
+}
+
+h2 {
+  font-family: 'Ubuntu', sans-serif;
+  color: #595959;
+}
+
+p {
+  font-family: 'Open Sans', sans-serif;
+  color: grey;
+  margin: 0;
+}
+
+
+.card {
+  display: inline-block;
+  width: 18rem;
+  height: 16rem;
+  margin: 0 auto;
+  margin-left: 1%;
+  margin-top: 1%;
+  background-color: white;
+  border-radius: 10px;
+  overflow: hidden;
+  text-align: center;
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.14), 0 3px 1px -2px rgba(0, 0, 0, 0.2), 0 1px 5px 0 rgba(0, 0, 0, 0.12);
+  transition: all 0.3s;
+}
+.card:hover {
+  box-shadow: 0 6px 6px 0 rgba(0, 0, 0, 0.14), 0 7px 5px -2px rgba(0, 0, 0, 0.2), 0 5px 9px 0 rgba(0, 0, 0, 0.12);
+  top: -4px;
+  transform: translateY(-4px);
+}
+.card:active {
+  box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.14), 0 0 0 0 rgba(0, 0, 0, 0.2), 0 0 0 0 rgba(0, 0, 0, 0.12);
+  transform: translateY(4px);
+}
+.card .image {
+  background-image: url("../img/valhalla.jpg");
+  background-size: cover;
+  height: 11rem;
+  width: 100%;
+  padding: 2rem;
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.card .text {
+  padding: 0.5rem;
+}
+
+.alphabet {
+  font-family: 'Ubuntu', sans-serif;
+  list-style-type: none;
+  margin: 90px auto 0;
+  padding: 0;
+  cursor: pointer;
+  width: 80%;
+  text-align: center;
+	
+}
+
+.alphabet li {
+	
+  float: left;
+  margin: 0;
+  padding: 0;
+  border-right: 1px solid darkgrey;
+  font-size: 13px;
+  -moz-box-sizing: border-box;
+  color: white;
+  display: inline-block;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 3.84%;
+}
+
+.alphabet li:last-child {
+	
+  border-right: none;
+}
+
+.alphabet li:hover {
+	
+  color: green;
+  background-color: lightgrey;
+}
