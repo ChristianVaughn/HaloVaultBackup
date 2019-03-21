@@ -9,11 +9,11 @@
   
       <link rel="stylesheet" href="css/style.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-  	<script src="js/script.js" ></script>
+<script src="js/script.js" ></script>
 
 
   <script>
-	  var currpage = 'a'
+	  var currpage = 'aa'
 function show(shown, hidden) {
 	if (shown == hidden) {
 		return;
@@ -27,9 +27,11 @@ function show(shown, hidden) {
 </head>
 
 <body>
-<header><div class="banner"></div></header>
+<header></header>
+<div class="banner">A Back up of a large ammount of the lost map files from HaloVault. Variants and Flatgrass Maps will be Added soon</div>
 <div>
 <ul class="alphabet">
+                        <li href="#" onclick="return show('aa',currpage);">#</li>
                         <li href="#" onclick="return show('a',currpage);">A</li>
                         <li href="#" onclick="return show('b',currpage);">B</li>
                         <li href="#" onclick="return show('c',currpage);">C</li>
@@ -58,34 +60,13 @@ function show(shown, hidden) {
                         <li href="#" onclick="return show('z',currpage);">Z</li>
                     </ul>
 	</div>
-  <div id="a">
+<div id="aa">
 
-	<a href="#" class="card">
-		<figure class="image">
-		</figure>
-		<article class="text">
-			<h2>BlowUpTheBridge</h2>
-		</article>
-	</a>
-
+</div>
+<div id="a" style="display:none">
 
 </div>
  <div id="b" style="display:none">
-
-	<a href="#" class="card">
-		<figure class="image">
-		</figure>
-		<article class="text">
-			<h2>BlowUpTheBridge</h2>
-		</article>
-	</a>
-<a href="#" class="card">
-		<figure class="image">
-		</figure>
-		<article class="text">
-			<h2>BlowUpTheBridge</h2>
-		</article>
-	</a>
 
 </div>
   <div id="c" style="display:none">
@@ -160,8 +141,8 @@ function show(shown, hidden) {
    <div id="z" style="display:none">
 
 </div>
-  
 
 </body>
+
 
 </html>

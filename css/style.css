@@ -4,6 +4,7 @@ body {
   padding: 0;
 background-color: #393a3e;
   height: 100%;
+
 }
 
 a:link,
@@ -22,6 +23,13 @@ header {
   background-color: #33343C;
   padding: 30px;
   text-align: center;
+}
+.banner {
+  font-family: 'Varela Round', sans-serif;
+  color: white;
+  text-align: center;
+  margin: 0 0 4rem;
+  font-size: 1.5rem;
 }
 
 h1 {
@@ -67,8 +75,118 @@ p {
   box-shadow: 0 0 0 0 rgba(0, 0, 0, 0.14), 0 0 0 0 rgba(0, 0, 0, 0.2), 0 0 0 0 rgba(0, 0, 0, 0.12);
   transform: translateY(4px);
 }
-.card .image {
+.card .Standoff {
+  background-image: url("../img/standoff.jpg");
+  background-size: cover;
+  height: 11rem;
+  width: 100%;
+  padding: 2rem;
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.card .Valhalla {
   background-image: url("../img/valhalla.jpg");
+  background-size: cover;
+  height: 11rem;
+  width: 100%;
+  padding: 2rem;
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.card .Diamondback {
+  background-image: url("../img/diamondback.jpg");
+  background-size: cover;
+  height: 11rem;
+  width: 100%;
+  padding: 2rem;
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.card .Edge {
+  background-image: url("../img/edge.jpg");
+  background-size: cover;
+  height: 11rem;
+  width: 100%;
+  padding: 2rem;
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.card .Guardian {
+  background-image: url("../img/guardian.jpg");
+  background-size: cover;
+  height: 11rem;
+  width: 100%;
+  padding: 2rem;
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.card .HighGround {
+  background-image: url("../img/highground.jpg");
+  background-size: cover;
+  height: 11rem;
+  width: 100%;
+  padding: 2rem;
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.card .Icebox {
+  background-image: url("../img/icebox.jpg");
+  background-size: cover;
+  height: 11rem;
+  width: 100%;
+  padding: 2rem;
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.card .LastResort {
+  background-image: url("../img/lastresort.jpg");
+  background-size: cover;
+  height: 11rem;
+  width: 100%;
+  padding: 2rem;
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.card .Narrows {
+  background-image: url("../img/narrows.jpg");
+  background-size: cover;
+  height: 11rem;
+  width: 100%;
+  padding: 2rem;
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.card .Reactor {
+  background-image: url("../img/reactor.jpg");
+  background-size: cover;
+  height: 11rem;
+  width: 100%;
+  padding: 2rem;
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.card .Sandtrap {
+  background-image: url("../img/sandtrap.jpg");
+  background-size: cover;
+  height: 11rem;
+  width: 100%;
+  padding: 2rem;
+  margin: 0;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.card .ThePit {
+  background-image: url("../img/thepit.jpg");
   background-size: cover;
   height: 11rem;
   width: 100%;
@@ -84,7 +202,7 @@ p {
 .alphabet {
   font-family: 'Ubuntu', sans-serif;
   list-style-type: none;
-  margin: 90px auto 0;
+  margin: 0px auto 0;
   padding: 0;
   cursor: pointer;
   width: 80%;
@@ -105,7 +223,7 @@ p {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
-  width: 3.84%;
+  width: 3.70%;
 }
 
 .alphabet li:last-child {
@@ -118,3 +236,4 @@ p {
   color: green;
   background-color: lightgrey;
 }
+
